@@ -32,4 +32,15 @@ Bem-vindo(a) ao repositório da **Web API de Biblioteca**! Este projeto foi dese
 
 Este projeto segue a estrutura padrão de uma API RESTful, com controllers organizados para gerenciar os endpoints de **livros** e **autores**. Abaixo, um exemplo da estrutura básica:
 
+### Estrutura
+
+- **📂 Controllers**: Contém os controladores da API, onde são definidos os endpoints para operações CRUD de livros e autores.
+
+- **📂 Models**: Contém as classes que representam as entidades principais do sistema.
+
+- **📂 Data**: Armazena as configurações de banco de dados e o contexto da aplicação.
+
+- **📂 Services**: Contém a lógica de negócio para manter os controladores mais organizados.
+
+
 
